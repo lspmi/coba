@@ -1,0 +1,25 @@
+div.login{
+    text-align: center;
+    padding: 30px;
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 200px;
+    background-color: rgb(107, 150, 32);
+    border-radius: 100px;
+}
+
+h1{
+    font-size: 48px;
+}
+button{
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.eror{
+    color: red;
+    background-color:  greenyellow;
+}

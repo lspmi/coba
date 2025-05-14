@@ -1,0 +1,29 @@
+
+div.footer{
+    background-color: rgba(0, 0, 0, 0.2);
+    text-align: center;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    margin: 10px;
+}
+a.fb{
+    background-image: url('//localhost/lspmi/asset/picture/fb.png');
+    background-repeat: no-repeat;
+    padding-left: 18px !important;
+    background-size: 20%;
+    background-position-y: 20%;
+}
+a.ig{
+    background-image: url("//localhost/lspmi/asset/picture/ig.png");
+    background-repeat: no-repeat;
+    padding-left: 18px !important;
+    background-size: 20%;
+    background-position-y: 20%;
+}
+a.nowa{
+    background-image: url("//localhost/lspmi/asset/picture/wa.png");
+    background-repeat: no-repeat;
+    padding-left: 18px !important;
+    background-size: 20%;
+    background-position-y: 20%;
+}

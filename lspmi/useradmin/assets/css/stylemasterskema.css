@@ -1,0 +1,104 @@
+.skema{
+    padding-top: 100px;
+    width: 100%;
+    text-align: center;
+}
+.skema h1{
+    font-size: 48px;
+}
+
+.skema .tabel-skema{
+    margin: 50px;
+    display: inline-block;
+    border: 1 solid black;
+    text-align: center;
+    border: 5px double black;
+}
+
+.skema .tabel-skema .judul-skema{
+    background-color: crimson;
+}
+.skema .tabel-skema .judul-skema th{
+    padding: 30px;
+    font-size: 28px;
+    border: 2px solid black;
+}
+
+.skema .tabel-skema .isi-tabel{
+    background-color: rgb(200, 215, 255);
+}
+
+.namaskema{
+    text-align: left;
+    padding: 5px;
+}
+.skema .tabel-skema .isi-tabel td{
+    font-size: 24px;
+    border: 2px solid black;
+}
+
+.editskema{
+    text-decoration: none;
+    font-size: 20px;
+}
+.editskema:hover{
+    background-color: blueviolet;
+    border-radius: 8px;
+    padding: 3px;
+}
+
+.inputskema{
+    margin: 130px;
+    padding: 20px;
+    background-color: grey;
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    border: 3px solid black;
+    font-family: monospace;
+    text-align: left;
+}
+.inputskema:hover{
+    background-color: blueviolet;
+}
+
+.skema .tabel-input-skema{
+    margin: 30px;
+    padding: 30px;
+    text-align: left;
+}
+
+.skema .tabel-input-skema input{
+    padding: 8px;
+    margin: 5px;
+    width: 100%;
+}
+
+.skema .tabel-input-skema textarea{
+    padding: 8px;
+    margin: 5px;
+    width: 100%;
+}
+
+.skema .tabel-input-skema td{
+    font-size: 24px;
+    padding: 10px;
+}
+
+.simpan{
+    text-align: left;
+
+}
+.skema .simpan .btn{
+    margin-left: 50px;
+    background-color: grey;
+    padding: 10px;
+    border-radius: 8px;
+    color: white;font-size: 20px;
+}
+
+.skema .simpan .btn:hover{
+    background-color: blueviolet;
+    cursor: pointer;
+}

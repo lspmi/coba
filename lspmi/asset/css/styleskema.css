@@ -1,0 +1,31 @@
+.skema{
+    text-align: center;
+    margin: 30px;
+    width: 100%;
+}
+.skema h1{
+    font-size: 48px;
+}
+
+.list-skema{
+    border: 1 double black;
+    margin: 20px;
+    display: inline-block;
+}
+
+.judultabel{
+    background-color: crimson;
+
+}
+.judultabel th{
+    padding: 30px;
+    font-size: 28px;
+}
+
+.namaskema{
+    text-align: left;
+    padding: 5px;
+}
+td{
+    font-size: 24px;
+}
