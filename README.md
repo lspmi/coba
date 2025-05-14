@@ -1,1 +1,1 @@
-# coba
+# tentang proyek pertamaku di GitHub
